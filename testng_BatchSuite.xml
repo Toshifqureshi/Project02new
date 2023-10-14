@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.organization.OrganizationTest"/>
-      <class name="com.PractiseExcersise.MyPractiseTest"/>
+      <class name="com.organization.ReadDataFromMultipleTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
