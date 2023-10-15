@@ -14,6 +14,9 @@ public class ReadDataCmdLine {
 		
 		String passvalue = System.getProperty("password");
 		System.out.println(passvalue);
+		
+		String uvalue = System.getProperty("username");
+		System.out.println(uvalue);
 	}
 
 }
